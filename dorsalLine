@@ -4,7 +4,7 @@
 
 <svg height="210" width="500">
   <line x1="0" y1="0" x2="200" y2="0" style="stroke:rgb(0,0,0);stroke-width:6" />
-  Sorry, your browser does not support inline SVG.
+  Your browser is too old for inline SVG.
 </svg>
 
 </body>
